@@ -1,0 +1,15 @@
+/Users/milenagoncalves/Desktop/Faculdade/Módulo 1A/Aula Javascript/candidatura/ex4/obj/Debug/net7.0/ex4.csproj.AssemblyReference.cache
+/Users/milenagoncalves/Desktop/Faculdade/Módulo 1A/Aula Javascript/candidatura/ex4/obj/Debug/net7.0/ex4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milenagoncalves/Desktop/Faculdade/Módulo 1A/Aula Javascript/candidatura/ex4/obj/Debug/net7.0/ex4.AssemblyInfoInputs.cache
+/Users/milenagoncalves/Desktop/Faculdade/Módulo 1A/Aula Javascript/candidatura/ex4/obj/Debug/net7.0/ex4.AssemblyInfo.cs
+/Users/milenagoncalves/Desktop/Faculdade/Módulo 1A/Aula Javascript/candidatura/ex4/obj/Debug/net7.0/ex4.csproj.CoreCompileInputs.cache
+/Users/milenagoncalves/Desktop/Faculdade/Módulo 1A/Aula Javascript/candidatura/ex4/bin/Debug/net7.0/ex4
+/Users/milenagoncalves/Desktop/Faculdade/Módulo 1A/Aula Javascript/candidatura/ex4/bin/Debug/net7.0/ex4.deps.json
+/Users/milenagoncalves/Desktop/Faculdade/Módulo 1A/Aula Javascript/candidatura/ex4/bin/Debug/net7.0/ex4.runtimeconfig.json
+/Users/milenagoncalves/Desktop/Faculdade/Módulo 1A/Aula Javascript/candidatura/ex4/bin/Debug/net7.0/ex4.dll
+/Users/milenagoncalves/Desktop/Faculdade/Módulo 1A/Aula Javascript/candidatura/ex4/bin/Debug/net7.0/ex4.pdb
+/Users/milenagoncalves/Desktop/Faculdade/Módulo 1A/Aula Javascript/candidatura/ex4/obj/Debug/net7.0/ex4.dll
+/Users/milenagoncalves/Desktop/Faculdade/Módulo 1A/Aula Javascript/candidatura/ex4/obj/Debug/net7.0/refint/ex4.dll
+/Users/milenagoncalves/Desktop/Faculdade/Módulo 1A/Aula Javascript/candidatura/ex4/obj/Debug/net7.0/ex4.pdb
+/Users/milenagoncalves/Desktop/Faculdade/Módulo 1A/Aula Javascript/candidatura/ex4/obj/Debug/net7.0/ex4.genruntimeconfig.cache
+/Users/milenagoncalves/Desktop/Faculdade/Módulo 1A/Aula Javascript/candidatura/ex4/obj/Debug/net7.0/ref/ex4.dll
